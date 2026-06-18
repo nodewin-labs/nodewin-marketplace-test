@@ -1,0 +1,37 @@
+{
+  "name": "performance-marketer",
+  "version": "0.3.0",
+  "description": "LinkedIn Ads performance, audience management, campaign intelligence, demographic analysis, ICP targeting quality, and onboarding for B2B marketing teams",
+  "author": {
+    "name": "Nodewin Labs",
+    "url": "https://github.com/nodewin-labs"
+  },
+  "repository": "https://github.com/nodewin-labs/nodewin",
+  "license": "UNLICENSED",
+  "keywords": ["linkedin-ads", "marketing", "audience", "b2b", "campaign", "demographics", "icp", "persona", "benchmarking", "utm", "naming-convention"],
+  "commands": [
+    "./commands/audience-export.md",
+    "./commands/ads-report.md",
+    "./commands/campaign-health.md",
+    "./commands/audience-quality-audit.md",
+    "./commands/audience-demographics.md",
+    "./commands/campaign-benchmarking.md",
+    "./commands/onboarding.md"
+  ],
+  "skills": [
+    "./skills/audience-export/SKILL.md",
+    "./skills/linkedin-ads-report/SKILL.md",
+    "./skills/campaign-health/SKILL.md",
+    "./skills/audience-quality-audit/SKILL.md",
+    "./skills/audience-demographics/SKILL.md",
+    "./skills/campaign-benchmarking/SKILL.md",
+    "./skills/onboarding/SKILL.md"
+  ],
+  "references": [
+    "./references/campaign-naming-convention.md",
+    "./references/utm-tracking-convention.md"
+  ],
+  "agents": [
+    "./agents/performance-marketer.md"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nodewin-marketplace-test",
+  "description": "Nodewin Claude Code plugin marketplace",
+  "owner": {
+    "name": "Nodewin Labs"
+  },
+  "plugins": [
+    {
+      "name": "performance-marketer",
+      "description": "LinkedIn Ads performance, audience management, campaign intelligence, demographic analysis, and ICP targeting quality for B2B marketing teams.",
+      "source": "./performance-marketer",
+      "category": "marketing"
+    },
+    {
+      "name": "okr-system",
+      "description": "OKR lifecycle management: business discovery, onboarding, monthly check-ins, dashboard.",
+      "source": "./okr-system-plugin",
+      "category": "productivity"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "okr-system-plugin",
+  "version": "1.0.0",
+  "description": "OKR lifecycle management: onboarding interview, monthly check-ins, and interactive dashboard. Designed for dedicated Cowork projects with project-local memory.",
+  "author": {
+    "name": "Nodewin Labs",
+    "url": "https://github.com/nodewin-labs"
+  },
+  "repository": "https://github.com/nodewin-labs/nodewin",
+  "license": "UNLICENSED",
+  "keywords": ["okr", "objectives", "key-results", "dashboard", "planning", "strategy"],
+  "skills": [
+    "./skills/okr-onboarding/SKILL.md",
+    "./skills/okr-update/SKILL.md",
+    "./skills/okr-dashboard/SKILL.md"
+  ]
+}
